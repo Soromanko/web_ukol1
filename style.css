@@ -129,3 +129,35 @@ main {
     background: #f4b553;
     padding-bottom: 140px;
 }
+
+.about {
+    background: black;
+}
+
+.about-text {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.about-text span {
+    color: white;
+    font-size: 150px;
+    font-weight: bold;
+}
+
+.about-main {
+    display: flex;
+    justify-content: space-between;
+}
+
+.muz {
+    width: 65%;
+    height: 70%;
+}
+
+.images {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 0 40px;
+}
